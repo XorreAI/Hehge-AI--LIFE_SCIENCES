@@ -1,0 +1,8 @@
+# Ignore all .sh files
+*.sh
+
+# Ignore all .py files
+*.py
+
+# Ignore the entire _bin directory
+_bin/
