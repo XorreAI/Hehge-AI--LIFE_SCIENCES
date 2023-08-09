@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-03,4.0,4.0,4.0,4.0,2,0.0,0.0,0.0,0.0,0.0,4.0,4.27,-0.01,-0.01,0.0,-6524754,49.3,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,4.0,4.0,4.0,0.0,24.04,Oversold,Undervalued,44.19,Strong Trend
 2023-07-21,4.0,4.0,4.0,4.0,10,0.0,0.0,0.0,0.0,0.0,4.0,4.28,-0.01,-0.01,0.0,-6524754,49.3,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,4.0,4.0,4.0,0.0,24.04,Oversold,Undervalued,44.1,Strong Trend
 2023-06-21,4.0,4.0,4.0,4.0,2,0.0,0.0,0.0,0.0,0.0,4.0,4.29,-0.01,-0.01,0.0,-6524754,49.3,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,4.0,4.0,4.0,0.0,24.04,Oversold,Undervalued,44.01,Strong Trend
 2023-06-20,4.0,4.0,4.0,4.0,1,0.0,0.0,0.0,0.0,0.0,4.0,4.29,-0.01,-0.01,0.0,-6524754,49.3,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,4.0,4.0,4.0,0.0,24.04,Oversold,Undervalued,43.92,Strong Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2022-12-29,8.5,8.5,8.5,8.5,1,0.0,0.0,0.0,0.0,0.0,8.5,8.33,0.01,0.01,-0.0,-6524654,28.66,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,8.5,8.5,8.5,0.0,61.14,Trending Low,Bearish Trend,28.24,Strong Trend
 2022-12-28,8.5,8.5,8.5,8.5,0,0.0,0.0,0.0,0.0,0.0,8.5,8.32,0.01,0.01,-0.0,-6524654,28.66,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,8.5,8.5,8.5,0.0,61.14,Trending Low,Bearish Trend,28.23,Strong Trend
 2022-12-27,8.5,8.5,8.5,8.5,0,0.0,0.0,0.0,0.0,0.0,8.5,8.32,0.01,0.01,-0.0,-6524654,28.66,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,8.5,8.5,8.5,0.0,61.14,Trending Low,Bearish Trend,28.23,Strong Trend
-2022-12-23,8.5,8.5,8.5,8.5,0,0.0,0.0,0.0,0.0,0.0,8.5,8.31,0.01,0.01,-0.0,-6524654,28.66,100.0,100.0,-1.0,0.0,High Volatility / Hold Signal,8.5,8.5,8.5,0.0,61.14,Trending Low,Bearish Trend,28.22,Strong Trend
